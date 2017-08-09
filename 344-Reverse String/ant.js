@@ -84,3 +84,23 @@ var reverseStringDog = function (str) {
 }
 
 console.log(reverseStringDog('hello node.js'));
+
+
+/**
+ * 第六种：折半替换
+ * @param {*} str 
+ */
+var reverseStringFox = function (str) {
+  var result = '';
+         arr = str.split('');
+
+  for (var i = 0, max = (arr.length - 1) / 2; i < max; i++) {
+    var temp = arr[i];
+    arr[i] = arr[arr.length - 1 - i];
+    arr[arr.length - 1 -i] = temp;
+  }
+
+  return arr.join('');
+};
+
+console.log(reverseStringFox('Hello node.js'));
