@@ -66,3 +66,21 @@ var reverseStringCat = function (str) {
 };
 
 console.log(reverseStringCat('hello vue'));
+
+/**
+ * 第五种：递归，效率有点差
+ * @param {*} str 
+ */
+var reverseStringDog = function (str) {
+  var length = str.length;
+
+  if (length <= 1) {
+    return str;
+  }
+  var leftStr = str.substring(0, length / 2);
+  var rightStr = str.substring(length / 2, length);
+
+  return reverseStringDog(rightStr) + reverseStringDog(leftStr);
+}
+
+console.log(reverseStringDog('hello node.js'));
