@@ -10,6 +10,11 @@
 | 4   | [104. Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |  [Java](./src/java/104-maximum-depth-of-binary-tree/MaxDepth.java) | Easy       |
 | 5   | [111. Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) |  [Java](./src/java/111-minimum-depth-of-binary-tree/MinDepth.java) | Easy       |
 | 6   | [637. Average of Levels in Binary Tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) |  [Java](./src/java/637-average-of-levels-in-binary-tree/AverageOfLevels.java) | Easy       |
+| 7   | [98. Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) |  [Java](./src/java/98-validate-binary-search-tree/ValidBST.java) | Easy       |
+
+
+
+
 
 
 
