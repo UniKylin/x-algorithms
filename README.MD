@@ -8,3 +8,7 @@
 | 2   | [70. Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [Go](./src/go/70-climbing-stairs/climbStairs.go), [Java](./src/java/70-climbing-stairs/climbStairs.java) | Easy       |
 | 3   | [297. Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |  [Java](./src/java/297-serialize-and-deserialize-binary-tree/Codec.java) | Hard       |
 | 4   | [104. Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |  [Java](./src/java/104-maximum-depth-of-binary-tree/MaxDepth.java) | Easy       |
+| 5   | [637. Average of Levels in Binary Tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) |  [Java](./src/java/637-average-of-levels-in-binary-tree/AverageOfLevels.java) | Easy       |
+
+
+
