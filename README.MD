@@ -16,7 +16,7 @@
 | 10   | [515. Find Largest Value in Each Tree Row](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/) |  [Java](./src/java/515-find-largest-value-in-each-tree-row/LargestValues.java) | Medium       |
 | 11   | [199. Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/) |  [Java](./src/java/199-binary-tree-right-side-view/RightSideView.java) | Medium       |
 | 12   | [226. Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/) |  [Java](./src/java/226-invert-binary-tree/InvertTree.java) | Easy       |
-| 12   | [100. Same Tree](https://leetcode-cn.com/problems/same-tree/) |  [Java](./src/java/100-same-tree/SameTree.java) | Easy       |
+| 13   | [589. N-ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) |  [Java](./src/java/589-n-ary-tree-preorder-traversal/PreOrderTraversal.java) | Easy       |
 
 
 
