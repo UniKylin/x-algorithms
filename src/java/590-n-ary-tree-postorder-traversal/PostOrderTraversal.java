@@ -1,4 +1,4 @@
-// link		: https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/
+// link		: https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/
 // Author	: Kylin
 // Date		: 2021-08-29
 
@@ -21,21 +21,18 @@ class Node {
 };
 */
 
-class PreOrderTraversal {
-
+class PostOrderTraversal {
     List<Integer> result = new ArrayList<Integer>();
 
-    public List<Integer> preorder(Node root) {
-
+    public List<Integer> postorder(Node root) {
         if (root == null) {
             return result;
         }
 
-        result.add(root.val);
-
         for (Node node : root.children) {
-            preorder(node);
+            postorder(node);
         }
+        result.add(root.val);
 
         return result;
     }

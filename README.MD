@@ -17,10 +17,7 @@
 | 11   | [199. Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/) |  [Java](./src/java/199-binary-tree-right-side-view/RightSideView.java) | Medium       |
 | 12   | [226. Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/) |  [Java](./src/java/226-invert-binary-tree/InvertTree.java) | Easy       |
 | 13   | [589. N-ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) |  [Java](./src/java/589-n-ary-tree-preorder-traversal/PreOrderTraversal.java) | Easy       |
-
-
-
-
+| 14   | [590. N-ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) |  [Java](./src/java/590-n-ary-tree-postorder-traversal/PostOrderTraversal.java) | Easy       |
 
 
 
