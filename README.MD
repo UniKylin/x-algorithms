@@ -25,6 +25,7 @@
 | 19   | [283. Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/) |  [Go](./src/go/283-move-zeroes/MoveZeros.go) | Easy       |
 | 20   | [2. Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) |  [Go](./src/go/2-add-two-numbers/AddTwoNumbers.go) | Medium       |
 | 21   | [14. Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) |  [Go](./src/go/14-longest-common-prefix/LongestCommonPrefix.go) | Easy       |
+| 22   | [5. Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) |  [Go](./src/go/5-longest-palindromic-substring/LongestPalindromicSubstring.go) | Easy       |
 
 
 
