@@ -1,27 +1,31 @@
-// link		: https://leetcode-cn.com/problems/subsets/
+// link		: https://leetcode-cn.com/problems/combinations/
 // Author	: Kylin
 // Date		: 2021-10-13
 
 package leetcode
 
-func subsets(nums []int) [][]int {
-	total := len(nums)
+func combine(n int, k int) [][]int {
 	var subset []int
 	var result [][]int
 
 	var dfs func(index int)
 	dfs = func(index int) {
-		if index == total {
+		if len(subset) == k {
 			result = append(result, append([]int{}, subset...))
 			return
 		}
 
+		if index > n {
+			return
+		}
+
 		dfs(index + 1)
-		subset = append(subset, nums[index])
+		subset = append(subset, index)
 		dfs(index + 1)
 		subset = subset[:len(subset)-1]
 	}
 
-	dfs(0)
+	// Notice 1....n
+	dfs(1)
 	return result
 }
