@@ -1,13 +1,13 @@
 // link		: https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 // Author	: Kylin
 // Date		: 2021-09-02
+package leetcode
 
 func searchRange(nums []int, target int) []int {
 	leftIndex := binarySearchLeft(nums, target)
 	rightIndex := binarySearchRight(nums, target)
 
-	if leftIndex <= rightIndex && rightIndex < len(nums)
-		&& nums[leftIndex] == target && nums[rightIndex] == target {
+	if leftIndex <= rightIndex && rightIndex < len(nums) && nums[leftIndex] == target && nums[rightIndex] == target {
 		return []int{leftIndex, rightIndex}
 	}
 

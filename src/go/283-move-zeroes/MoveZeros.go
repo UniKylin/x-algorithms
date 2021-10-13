@@ -1,6 +1,7 @@
 // link		: https://leetcode-cn.com/problems/move-zeroes/
 // Author	: Kylin
 // Date		: 2021-09-02
+package leetcode
 
 func moveZeroes(nums []int) {
 	slow := 0

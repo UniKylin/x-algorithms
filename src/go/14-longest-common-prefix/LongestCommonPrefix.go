@@ -1,6 +1,7 @@
 // link		: https://leetcode-cn.com/problems/longest-common-prefix/
 // Author	: Kylin
 // Date		: 2021-09-25
+package leetcode
 
 func longestCommonPrefix(strs []string) string {
 
