@@ -9,7 +9,7 @@ type ListNode struct {
 	Next *ListNode
 }
 
-func addTwoNumbers(ant *ListNode, bear *ListNode) *ListNode {
+func AddTwoNumbers(ant *ListNode, bear *ListNode) *ListNode {
 	var head *ListNode
 	var tail *ListNode
 	carry := 0
