@@ -1,5 +1,11 @@
 # Algorithm
 
+## 设计
+
+| #   | Title                                                        | Solution                                  | Difficulty |
+| --- | ------------------------------------------------------------ | ----------------------------------------- | ---------- |
+| 1   | [146. LRU 缓存](https://leetcode-cn.com/problems/lru-cache/) | [Go](./src/go/146-lru-cache/lru_cache.go) | Medium     |
+
 ## [Leetcode](https://leetcode.com/)
 
 | #   | Title                                                                                                                                                    | Solution                                                                                                 | Difficulty |
@@ -38,4 +44,3 @@
 | 32  | [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)                                | [Go](./src/go/714-best-time-to-buy-and-sell-stock-with-transaction-fee/sell_stock_fee.go)                | Medium     |
 
 
-## 设计
