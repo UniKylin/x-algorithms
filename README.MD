@@ -2,9 +2,14 @@
 
 ## 设计
 
-| #   | Title                                                        | Solution                                  | Difficulty |
-| --- | ------------------------------------------------------------ | ----------------------------------------- | ---------- |
-| 1   | [146. LRU 缓存](https://leetcode-cn.com/problems/lru-cache/) | [Go](./src/go/146-lru-cache/lru_cache.go) | Medium     |
+| #   | Title                                                                                | Solution                                                              | Difficulty |
+| --- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------- | ---------- |
+| 1   | [146. LRU 缓存](https://leetcode-cn.com/problems/lru-cache/)                         | [Go](./src/go/146-lru-cache/lru_cache.go)                             | Medium     |
+| 2   | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)                           | [Go](./src/go/155-min-stack/min_stack.go)                             | Easy       |
+| 3   | [716. 最大栈](https://leetcode-cn.com/problems/max-stack/)                           | [Go](./src/go/716-max-stack/max_stack.go)                             | Easy       |
+| 4   | [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)  | [Go](./src/go/225-implement-stack-using-queues/stack_using_queues.go) | Easy       |
+| 5   | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)  | [Go](./src/go/232-implement-queue-using-stacks/queue_using_stack.go)  | Easy       |
+| 6   | [1472. 设计浏览器历史记录](https://leetcode-cn.com/problems/design-browser-history/) | [Go](./src/go/1472-design-browser-history/broser_history.go)          | Medium     |
 
 ## [Leetcode](https://leetcode.com/)
 
@@ -42,5 +47,3 @@
 | 30  | [188. 买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)                                                       | [Go](./src/go/188-best-time-to-buy-and-sell-stock-iv/sell_stock_iv.go)                                   | Hard       |
 | 31  | [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)                                         | [Go](./src/go/309-best-time-to-buy-and-sell-stock-with-cooldown/sell_stock_cooldown.go)                  | Medium     |
 | 32  | [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)                                | [Go](./src/go/714-best-time-to-buy-and-sell-stock-with-transaction-fee/sell_stock_fee.go)                | Medium     |
-
-
