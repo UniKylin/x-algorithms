@@ -11,6 +11,19 @@
 | 5   | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)  | [Go](./src/go/232-implement-queue-using-stacks/queue_using_stack.go)  | Easy       |
 | 6   | [1472. 设计浏览器历史记录](https://leetcode-cn.com/problems/design-browser-history/) | [Go](./src/go/1472-design-browser-history/broser_history.go)          | Medium     |
 
+<br/>
+
+## 动态规划
+
+| #   | Title                                                                                 | Solution                                                  | Difficulty |
+| --- | ------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
+| 1   | [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [Go](./src/go/746-min-cost-climbing-stairs/min_stairs.go) | Easy       |
+| 2   | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)                       | [Go](./src/go/198-house-robber/robber.go)                 | Medium     |
+| 3   | [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)                 | [Go](./src/go/213-house-robber-ii/robber_next.go)         | Medium     |
+| 4   | [256. 粉刷房子](https://leetcode-cn.com/problems/paint-house/)                        | [Go](./src/go/256-paint-house/paint_house.go)             | Medium     |
+
+<br />
+
 ## [Leetcode](https://leetcode.com/)
 
 | #   | Title                                                                                                                                                    | Solution                                                                                                 | Difficulty |
