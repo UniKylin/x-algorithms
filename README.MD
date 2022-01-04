@@ -13,6 +13,17 @@
 
 <br/>
 
+## 二叉搜索树（Binary Search Tree）
+
+| #   | Title                                                                                             | Solution                                                              | Difficulty |
+| --- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------- |
+| 1   | [701. 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | [Go](./src/go/701-insert-into-a-binary-search-tree/insert_bst.go)     | Medium     |
+| 2   | [450. 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)             | [Go](./src/go/450-delete-node-in-a-bst/delete_bst.go)                 | Medium     |
+| 3   | [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)       | [Go](./src/go/700-search-in-a-binary-search-tree/search_bst.go)       | Easy       |
+| 4   | [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)            | [Go](./src/go/225-implement-stack-using-queues/stack_using_queues.go) | Medium     |
+
+<br/>
+
 ## 动态规划
 
 | #   | Title                                                                                                                     | Solution                                                                                  | Difficulty |
