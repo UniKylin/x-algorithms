@@ -38,6 +38,8 @@
 | 8   | [188. 买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)                        | [Go](./src/go/188-best-time-to-buy-and-sell-stock-iv/sell_stock_iv.go)                    | Hard       |
 | 9   | [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)          | [Go](./src/go/309-best-time-to-buy-and-sell-stock-with-cooldown/sell_stock_cooldown.go)   | Medium     |
 | 10  | [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Go](./src/go/714-best-time-to-buy-and-sell-stock-with-transaction-fee/sell_stock_fee.go) | Medium     |
+| 11  | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)                                                      | [Go](./src/go/64-minimum-path-sum/min_path_sum.go)                                        | Medium     |
+| 12  | [62. 不同路径](https://leetcode-cn.com/problems/minimum-path-sum/)                                                        | [Go](./src/go/62-unique-paths/unique_path.go)                                        | Medium     |
 
 <br />
 
@@ -59,7 +61,7 @@
 | 12  | [226. Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)                                                                          | [Java](./src/java/226-invert-binary-tree/InvertTree.java)                                                | Easy       |
 | 13  | [589. N-ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)                                                    | [Java](./src/java/589-n-ary-tree-preorder-traversal/PreOrderTraversal.java)                              | Easy       |
 | 14  | [590. N-ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)                                                  | [Java](./src/java/590-n-ary-tree-postorder-traversal/PostOrderTraversal.java)                            | Easy       |
-| 15  | [64. Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/)                                                                               | [Go](./src/go/64-minimum-path-sum/MinimumPathSum.go)                                                     | Medium     |
+| 15  | [64. Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/)                                                                               | [Go](./src/go/64-minimum-path-sum/min_path_sum.go)                                                       | Medium     |
 | 16  | [704. Binary Search](https://leetcode-cn.com/problems/binary-search/)                                                                                    | [Go](./src/go/704-binary-search/BinarySearch.go)                                                         | Easy       |
 | 17  | [34. Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Go](./src/go/34-find-first-and-last-position-of-element-in-sorted-array/SearchRange.go)                 | Easy       |
 | 18  | [35. Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)                                                                   | [Go](./src/go/35-search-insert-position/SearchInsert.go)                                                 | Easy       |
