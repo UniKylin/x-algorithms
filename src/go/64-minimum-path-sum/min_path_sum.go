@@ -4,7 +4,7 @@
 
 package leetcode
 
-func minPathSum(grid [][]int) int {
+func MinPathSum(grid [][]int) int {
 	for row := 0; row < len(grid); row++ {
 		for column := 0; column < len(grid[0]); column++ {
 			if row == 0 && column == 0 {
