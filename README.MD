@@ -39,7 +39,8 @@
 | 9   | [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)          | [Go](./src/go/309-best-time-to-buy-and-sell-stock-with-cooldown/sell_stock_cooldown.go)   | Medium     |
 | 10  | [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Go](./src/go/714-best-time-to-buy-and-sell-stock-with-transaction-fee/sell_stock_fee.go) | Medium     |
 | 11  | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)                                                      | [Go](./src/go/64-minimum-path-sum/min_path_sum.go)                                        | Medium     |
-| 12  | [62. 不同路径](https://leetcode-cn.com/problems/minimum-path-sum/)                                                        | [Go](./src/go/62-unique-paths/unique_path.go)                                        | Medium     |
+| 12  | [62. 不同路径](https://leetcode-cn.com/problems/minimum-path-sum/)                                                        | [Go](./src/go/62-unique-paths/unique_path.go)                                             | Medium     |
+| 13  | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)                                                      | [Go](./src/go/63-unique-paths-ii/unique_path_ii.go)                                       | Medium     |
 
 <br />
 
