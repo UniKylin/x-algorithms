@@ -2,7 +2,7 @@ package sort
 
 import "fmt"
 
-func QuickSort(arr []int) []int {
+func QuickSortRecursion(arr []int) []int {
 	if len(arr) < 2 {
 		return arr
 	}
@@ -20,5 +20,5 @@ func QuickSort(arr []int) []int {
 	fmt.Println(">>> pivot:", pivot)
 	fmt.Println(">>> arr:", arr)
 
-	return append(QuickSort(left), append([]int{pivot}, QuickSort(right)...)...)
+	return append(QuickSortRecursion(left), append([]int{pivot}, QuickSortRecursion(right)...)...)
 }

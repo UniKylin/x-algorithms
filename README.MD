@@ -2,7 +2,7 @@
 
 - [Bubble Sort](datastructure/sort/bubble-sort/bubble_sort.go)
 - [Selection Sort](datastructure/sort/select-sort/select_sort.go)
-- [Quick Sort](datastructure/sort/quick-sort/quick_sort.go)
+- [Quick Sort](datastructure/sort/quick-sort/quick_sort_in_place.go)
 - [Insert Sort](datastructure/sort/insert-sort/insert_sort.go)
 - [Merge Sort](datastructure/sort/merge-sort/merge_sort.go)
 
