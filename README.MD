@@ -1,10 +1,10 @@
 # Basic Data Structures
 
-- [冒泡排序](datastructure/1_bubble_sort/bubble_sort.go)
-- [选择排序](datastructure/2_select_sort/select_sort.go)
-- [快速排序](datastructure/3_quick_sort/quick_sort.go)
-- [插入排序](datastructure/4_insert_sort/insert_sort.go)
-- [归并排序](datastructure/5_merge_sort/merge_sort.go)
+- [Bubble Sort](datastructure/sort/bubble-sort/bubble_sort.go)
+- [Selection Sort](datastructure/sort/select-sort/select_sort.go)
+- [Quick Sort](datastructure/sort/quick-sort/quick_sort.go)
+- [Insert Sort](datastructure/sort/insert-sort/insert_sort.go)
+- [Merge Sort](datastructure/sort/merge-sort/merge_sort.go)
 
 </br>
 
