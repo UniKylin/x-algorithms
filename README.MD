@@ -42,6 +42,14 @@
 
 <br/>
 
+## 二分查找(Binary Search)
+
+| #   | Title                                                                 | Solution                                        | Difficulty |
+| --- | --------------------------------------------------------------------- | ----------------------------------------------- | ---------- |
+| 1   | [704. Binary Search](https://leetcode-cn.com/problems/binary-search/) | [Go](src/go/704-binary-search/binary_search.go) | Easy       |
+
+<br/>
+
 ## 动态规划
 
 | #   | Title                                                                                                                     | Solution                                                                                  | Difficulty |
@@ -81,7 +89,7 @@
 | 13  | [589. N-ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)                                                    | [Java](./src/java/589-n-ary-tree-preorder-traversal/PreOrderTraversal.java)                              | Easy       |
 | 14  | [590. N-ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)                                                  | [Java](./src/java/590-n-ary-tree-postorder-traversal/PostOrderTraversal.java)                            | Easy       |
 | 15  | [64. Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/)                                                                               | [Go](./src/go/64-minimum-path-sum/min_path_sum.go)                                                       | Medium     |
-| 16  | [704. Binary Search](https://leetcode-cn.com/problems/binary-search/)                                                                                    | [Go](./src/go/704-binary-search/BinarySearch.go)                                                         | Easy       |
+| 16  | [704. Binary Search](https://leetcode-cn.com/problems/binary-search/)                                                                                    | [Go](src/go/704-binary-search/binary_search.go)                                                          | Easy       |
 | 17  | [34. Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Go](./src/go/34-find-first-and-last-position-of-element-in-sorted-array/SearchRange.go)                 | Easy       |
 | 18  | [35. Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)                                                                   | [Go](./src/go/35-search-insert-position/SearchInsert.go)                                                 | Easy       |
 | 19  | [283. Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)                                                                                        | [Go](./src/go/283-move-zeroes/MoveZeros.go)                                                              | Easy       |
