@@ -18,6 +18,14 @@
 
 # LeetCode
 
+## 队列 (Queue)
+
+| #   | Title                                                                        | Solution                                               | Difficulty |
+| --- | ---------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- |
+| 1   | [622. 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/) | [Go](src/go/622-design-circular-queue/circle_queue.go) | Medium     |
+
+<br/>
+
 ## 设计
 
 | #   | Title                                                                                | Solution                                                              | Difficulty |
