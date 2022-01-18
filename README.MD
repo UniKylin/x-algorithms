@@ -23,6 +23,7 @@
 | #   | Title                                                                        | Solution                                               | Difficulty |
 | --- | ---------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- |
 | 1   | [622. 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/) | [Go](src/go/622-design-circular-queue/circle_queue.go) | Medium     |
+| 2   | [752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)           | [Go](src/go/752-open-the-lock/open_lock.go)            | Medium     |
 
 <br/>
 
