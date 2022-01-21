@@ -26,6 +26,16 @@
 | 2   | [752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)           | [Go](go/752-open-the-lock/open_lock.go)            | Medium     |
 | 3   | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)         | [Go](go/279-perfect-squares/perfect_squares.go)    | Medium     |
 
+
+<br/>
+
+## 深度优先搜索 (DFS)
+
+| #   | Title                                                                        | Solution                                           | Difficulty |
+| --- | ---------------------------------------------------------------------------- | -------------------------------------------------- | ---------- |
+| 1   | [112. 路径总和](https://leetcode-cn.com/problems/path-sum/) | [Go](go/112-path-sum/path_sum.go) | Easy     |
+
+
 <br/>
 
 ## 设计
