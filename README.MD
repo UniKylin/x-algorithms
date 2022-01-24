@@ -29,6 +29,15 @@
 
 <br/>
 
+## 堆 (Heap)
+
+| #   | Title                                                                        | Solution                                           | Difficulty |
+| --- | ---------------------------------------------------------------------------- | -------------------------------------------------- | ---------- |
+| 1   | [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | [Go](go/703-kth-largest-element-in-a-stream/element_in_a_stream.go) | Easy     |
+
+
+<br/>
+
 ## 深度优先搜索 (DFS)
 
 | #   | Title                                                                        | Solution                                           | Difficulty |
