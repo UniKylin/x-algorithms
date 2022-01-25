@@ -25,6 +25,7 @@
 | 1   | [622. 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/) | [Go](go/622-design-circular-queue/circle_queue.go) | Medium     |
 | 2   | [752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)           | [Go](go/752-open-the-lock/open_lock.go)            | Medium     |
 | 3   | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)         | [Go](go/279-perfect-squares/perfect_squares.go)    | Medium     |
+| 3   | [933. 最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)         | [Go](go/933-number-of-recent-calls/number_of_recent_calls.go)    | Easy     |
 
 
 <br/>
