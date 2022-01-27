@@ -18,7 +18,7 @@
 
 # [Leetcode](https://leetcode.com/)
 
- > <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="1em" height="1em" fill="currentColor" class="flex-shrink-0 ml-2 text-brand-orange dark:text-dark-brand-orange"><path fill-rule="evenodd" d="M6.793 3C4.635 3 2.737 4.35 2.055 6.325a1 1 0 101.89.652C4.349 5.81 5.489 5 6.794 5c1.663 0 3 1.3 3 2.889V10H6a3 3 0 00-3 3v6a3 3 0 003 3h12a3 3 0 003-3v-6a3 3 0 00-3-3h-6.207V7.889c0-2.707-2.244-4.889-5-4.889zM12 14a2 2 0 100 4 2 2 0 000-4z" clip-rule="evenodd"></path></svg> 如果出现这个标记，需要 `leetcode` 会员权限
+ 如果出现这个 ![](https://static.leetcode-cn.com/cn-mono-assets/production/assets/plus.31398c34.svg) 标记，需要 `Leetcode` 会员权限
 
  <br />
 
