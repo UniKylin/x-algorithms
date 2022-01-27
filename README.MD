@@ -50,6 +50,9 @@
 | 1   | [112. 路径总和](https://leetcode-cn.com/problems/path-sum/) | [Go](go/112-path-sum/path_sum.go) | Easy     |
 | 2   | [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [Go](go/113-path-sum-ii/path_sum_ii.go) | Medium     |
 | 3   | [437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) | [Go](go/437-path-sum-iii/path_sum_iii.go) | Medium     |
+| 4   | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Go](go/144-binary-tree-preorder-traversal/preorder.go) | Easy     |
+| 5   | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Go](go/94-binary-tree-inorder-traversal/inorder.go) | Easy     |
+| 6   | [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Go](go/145-binary-tree-postorder-traversal/postorder.go) | Easy     |
 
 
 <br/>
