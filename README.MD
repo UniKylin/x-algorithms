@@ -53,6 +53,8 @@
 | 4   | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Go](go/144-binary-tree-preorder-traversal/preorder.go) | Easy     |
 | 5   | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Go](go/94-binary-tree-inorder-traversal/inorder.go) | Easy     |
 | 6   | [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Go](go/145-binary-tree-postorder-traversal/postorder.go) | Easy     |
+| 7   | [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) | [Go](go/100-same-tree/same_tree.go) | Easy     |
+| 8   | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [Go](go/101-symmetric-tree/symmetric_tree.go) | Easy     |
 
 
 <br/>
