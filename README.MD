@@ -22,6 +22,15 @@
 
  <br />
 
+ ## 数学（Math）
+
+| #   | Title                                                                        | Solution                                           | Difficulty |
+| --- | ---------------------------------------------------------------------------- | -------------------------------------------------- | ---------- |
+| 1   | [29. 两数相除](https://leetcode-cn.com/problems/divide-two-integers/) | [Go](go/29-divide-two-integers/divide_two_integers.go) | Medium     |
+
+
+<br/>
+
 ## 队列 (Queue)
 
 | #   | Title                                                                        | Solution                                           | Difficulty |
