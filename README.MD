@@ -31,6 +31,15 @@
 
 <br/>
 
+ ## 位运算（Bit Manipulation）
+
+| #   | Title                                                                        | Solution                                           | Difficulty |
+| --- | ---------------------------------------------------------------------------- | -------------------------------------------------- | ---------- |
+| 1   | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [Go](go/338-counting-bits/counting_bits.go) | Easy     |
+
+
+<br/>
+
 ## 队列 (Queue)
 
 | #   | Title                                                                        | Solution                                           | Difficulty |
