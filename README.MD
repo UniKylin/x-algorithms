@@ -45,8 +45,9 @@
 | #   | Title                                                                        | Solution                                           | Difficulty |
 | --- | ---------------------------------------------------------------------------- | -------------------------------------------------- | ---------- |
 | 1   | [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | [Go](go/147-insertion-sort-list/insertion_sort_list.go) | Medium     |
-| 1   | [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | [Go](go/148-sort-list/sort_list.go) | Medium     |
-| 1   | [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Go](go/21-merge-two-sorted-lists/merge_two_sorted_lists.go) | Easy     |
+| 2   | [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | [Go](go/148-sort-list/sort_list.go) | Medium     |
+| 3   | [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Go](go/21-merge-two-sorted-lists/merge_two_sorted_lists.go) | Easy     |
+| 4   | [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [Go](go/23-merge-k-sorted-lists/merge_k_sorted_lists.go) | Hard     |
 
 
 <br/>
