@@ -12,7 +12,7 @@ func ReversePairs(nums []int) int {
 
 	n1 := append([]int(nil), nums[:n/2]...)
 	n2 := append([]int(nil), nums[n/2:]...)
-	cnt := reversePairs(n1) + reversePairs(n2)
+	cnt := ReversePairs(n1) + ReversePairs(n2)
 
 	j := 0
 	for _, v := range n1 {
