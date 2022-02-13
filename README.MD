@@ -54,6 +54,8 @@
 | 4   | [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [Go](go/23-merge-k-sorted-lists/merge_k_sorted_lists.go) | Hard     |
 | 5   | [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [Go](go/237-delete-node-in-a-linked-list/delete_node.go) | Easy     |
 | 6   | [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [Go](go/61-rotate-list/rotate_list.go) | Medium     |
+| 7   | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Go](go/206-reverse-linked-list/reverse_linked_list.go) | Easy     |
+| 8   | [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [Go](go/92_reverse-linked-list-ii/reverse_linked_list_ii.go) | Medium     |
 
 
 <br/>
