@@ -4,14 +4,12 @@
 
 package leetcode
 
-/**
- * Definition for singly-linked list.
- * type ListNode struct {
- *     Val int
- *     Next *ListNode
- * }
- */
-func rotateRight(head *ListNode, k int) *ListNode {
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
+
+func RotateRight(head *ListNode, k int) *ListNode {
 
 	if k == 0 || head == nil || head.Next == nil {
 		return head
