@@ -12,6 +12,10 @@
 
 - [Singly Linked List](datastructure/linkedlist/singly_linked_list.go)
 
+## Stack
+
+- [Sorted Stack](datastructure/stack/sorted_stack.go)
+
 </br>
 </br>
 </br>
