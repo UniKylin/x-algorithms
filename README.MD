@@ -52,6 +52,7 @@
 | 2   | [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | [Go](go/148-sort-list/sort_list.go) | Medium     |
 | 3   | [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Go](go/21-merge-two-sorted-lists/merge_two_sorted_lists.go) | Easy     |
 | 4   | [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [Go](go/23-merge-k-sorted-lists/merge_k_sorted_lists.go) | Hard     |
+| 5   | [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [Go](go/237-delete-node-in-a-linked-list/delete_node.go) | Easy     |
 
 
 <br/>
