@@ -57,6 +57,8 @@
 | 7   | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Go](go/206-reverse-linked-list/reverse_linked_list.go) | Easy     |
 | 8   | [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [Go](go/92_reverse-linked-list-ii/reverse_linked_list_ii.go) | Medium     |
 | 9   | [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Go](go/19-remove-nth-node-from-end-of-list/remove_nth_node.go) | Medium     |
+| 10   | [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Go](go/82-remove-duplicates-from-sorted-list-ii/remove_duplicates_ii.go) | Medium     |
+| 11   | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Go](go/83-remove-duplicates-from-sorted-list/remove_duplicates.go) | Medium     |
 
 
 <br/>
