@@ -48,17 +48,18 @@
 
 | #   | Title                                                                        | Solution                                           | Difficulty |
 | --- | ---------------------------------------------------------------------------- | -------------------------------------------------- | ---------- |
-| 1   | [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | [Go](go/147-insertion-sort-list/insertion_sort_list.go) | Medium     |
-| 2   | [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | [Go](go/148-sort-list/sort_list.go) | Medium     |
-| 3   | [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Go](go/21-merge-two-sorted-lists/merge_two_sorted_lists.go) | Easy     |
-| 4   | [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [Go](go/23-merge-k-sorted-lists/merge_k_sorted_lists.go) | Hard     |
-| 5   | [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [Go](go/237-delete-node-in-a-linked-list/delete_node.go) | Easy     |
-| 6   | [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [Go](go/61-rotate-list/rotate_list.go) | Medium     |
-| 7   | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Go](go/206-reverse-linked-list/reverse_linked_list.go) | Easy     |
-| 8   | [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [Go](go/92_reverse-linked-list-ii/reverse_linked_list_ii.go) | Medium     |
-| 9   | [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Go](go/19-remove-nth-node-from-end-of-list/remove_nth_node.go) | Medium     |
-| 10   | [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Go](go/82-remove-duplicates-from-sorted-list-ii/remove_duplicates_ii.go) | Medium     |
-| 11   | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Go](go/83-remove-duplicates-from-sorted-list/remove_duplicates.go) | Medium     |
+| 1   | [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list/) | [Go](go/707-design-linked-list/design_linked_list.go) | Medium     |
+| 2   | [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | [Go](go/147-insertion-sort-list/insertion_sort_list.go) | Medium     |
+| 3   | [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | [Go](go/148-sort-list/sort_list.go) | Medium     |
+| 4   | [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Go](go/21-merge-two-sorted-lists/merge_two_sorted_lists.go) | Easy     |
+| 5   | [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [Go](go/23-merge-k-sorted-lists/merge_k_sorted_lists.go) | Hard     |
+| 6   | [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [Go](go/237-delete-node-in-a-linked-list/delete_node.go) | Easy     |
+| 7   | [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [Go](go/61-rotate-list/rotate_list.go) | Medium     |
+| 8   | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Go](go/206-reverse-linked-list/reverse_linked_list.go) | Easy     |
+| 9   | [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [Go](go/92_reverse-linked-list-ii/reverse_linked_list_ii.go) | Medium     |
+| 10   | [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Go](go/19-remove-nth-node-from-end-of-list/remove_nth_node.go) | Medium     |
+| 11   | [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Go](go/82-remove-duplicates-from-sorted-list-ii/remove_duplicates_ii.go) | Medium     |
+| 12   | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Go](go/83-remove-duplicates-from-sorted-list/remove_duplicates.go) | Medium     |
 
 
 <br/>
