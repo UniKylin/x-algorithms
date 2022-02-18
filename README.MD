@@ -60,6 +60,7 @@
 | 10   | [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Go](go/19-remove-nth-node-from-end-of-list/remove_nth_node.go) | Medium     |
 | 11   | [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Go](go/82-remove-duplicates-from-sorted-list-ii/remove_duplicates_ii.go) | Medium     |
 | 12   | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Go](go/83-remove-duplicates-from-sorted-list/remove_duplicates.go) | Medium     |
+| 13   | [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Go](go/160-intersection-of-two-linked-lists/intersection_linked_list.go) | Easy     |
 
 
 <br/>
