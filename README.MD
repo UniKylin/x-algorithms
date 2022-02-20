@@ -61,6 +61,7 @@
 | 11   | [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Go](go/82-remove-duplicates-from-sorted-list-ii/remove_duplicates_ii.go) | Medium     |
 | 12   | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Go](go/83-remove-duplicates-from-sorted-list/remove_duplicates.go) | Medium     |
 | 13   | [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Go](go/160-intersection-of-two-linked-lists/intersection_linked_list.go) | Easy     |
+| 14   | [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [Go](go/25-reverse-nodes-in-k-group/reverse_nodes_in_k_group.go) | Hard     |
 
 
 <br/>
