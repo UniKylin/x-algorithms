@@ -95,11 +95,7 @@
 | 1   | [112. 路径总和](https://leetcode-cn.com/problems/path-sum/) | [Go](go/112-path-sum/path_sum.go) | Easy     |
 | 2   | [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [Go](go/113-path-sum-ii/path_sum_ii.go) | Medium     |
 | 3   | [437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) | [Go](go/437-path-sum-iii/path_sum_iii.go) | Medium     |
-| 4   | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Go](go/144-binary-tree-preorder-traversal/preorder.go) | Easy     |
-| 5   | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Go](go/94-binary-tree-inorder-traversal/inorder.go) | Easy     |
-| 6   | [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Go](go/145-binary-tree-postorder-traversal/postorder.go) | Easy     |
-| 7   | [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) | [Go](go/100-same-tree/same_tree.go) | Easy     |
-| 8   | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [Go](go/101-symmetric-tree/symmetric_tree.go) | Easy     |
+
 
 
 <br/>
@@ -116,6 +112,20 @@
 | 6   | [1472. 设计浏览器历史记录](https://leetcode-cn.com/problems/design-browser-history/) | [Go](go/1472-design-browser-history/broser_history.go)          | Medium     |
 
 <br/>
+
+## 二叉树（Binary Tree）
+
+| #   | Title                                                                                             | Solution                                                        | Difficulty |
+| --- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------- |
+| 1   | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Go](go/144-binary-tree-preorder-traversal/preorder.go) | Easy     |
+| 2   | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Go](go/94-binary-tree-inorder-traversal/inorder.go) | Easy     |
+| 3   | [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Go](go/145-binary-tree-postorder-traversal/postorder.go) | Easy     |
+| 4   | [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) | [Go](go/100-same-tree/same_tree.go) | Easy     |
+| 5   | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [Go](go/101-symmetric-tree/symmetric_tree.go) | Easy     |
+| 6   | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Go](go/236-lowest-common-ancestor-of-a-binary-tree/search_ancestor.go)     | Medium     |
+
+<br />
+
 
 ## 二叉搜索树（Binary Search Tree）
 
