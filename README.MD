@@ -22,10 +22,6 @@
 
 # [Leetcode](https://leetcode.com/)
 
- 如果出现这个 ![](https://static.leetcode-cn.com/cn-mono-assets/production/assets/plus.31398c34.svg) 标记，需要 `Leetcode` 会员权限
-
- <br />
-
  ## 数学（Math）
 
 | #   | Title                                                                        | Solution                                           | Difficulty |
