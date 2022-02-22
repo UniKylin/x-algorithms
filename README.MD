@@ -119,6 +119,7 @@
 | 4   | [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) | [Go](go/100-same-tree/same_tree.go) | Easy     |
 | 5   | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [Go](go/101-symmetric-tree/symmetric_tree.go) | Easy     |
 | 6   | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Go](go/236-lowest-common-ancestor-of-a-binary-tree/search_ancestor.go)     | Medium     |
+| 7   | [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [Go](go/110-balanced-binary-tree/balanced_binary_tree.go)     | Easy     |
 
 <br />
 
