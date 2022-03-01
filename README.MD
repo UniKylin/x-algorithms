@@ -136,6 +136,9 @@
 | 5   | [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)            | [Go](go/235-lowest-common-ancestor-of-a-binary-search-tree/search_ancestor_bst.go) | Easy     |
 | 6   | [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)            | [Go](go/108-convert-sorted-array-to-binary-search-tree/convert_array_to_bst.go) | Easy     |
 | 7   | [1382. 将二叉搜索树变平衡](https://leetcode-cn.com/problems/balance-a-binary-search-tree/)            | [Go](go/1382-balance-a-binary-search-tree/balance_bst.go) | Medium     |
+| 8   | [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)            | [Go](go/1382-balance-a-binary-search-tree/balance_bst.go) | Medium     |
+| 9   | [1382. 将二叉搜索树变平衡](https://leetcode-cn.com/problems/balance-a-binary-search-tree/)            | [Go](go/109-convert-sorted-list-to-binary-search-tree/list_to_bst.go) | Medium     |
+| 10   | [897. 递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/)            | [Go](go/897-increasing-order-search-tree/increasing_order_search_tree.go) | Easy     |
 
 <br/>
 
