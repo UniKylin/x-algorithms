@@ -167,5 +167,6 @@
 | 11  | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)                                                      | [Go](go/64-minimum-path-sum/min_path_sum.go)                                        | Medium     |
 | 12  | [62. 不同路径](https://leetcode-cn.com/problems/minimum-path-sum/)                                                        | [Go](go/62-unique-paths/unique_path.go)                                             | Medium     |
 | 13  | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)                                                      | [Go](go/63-unique-paths-ii/unique_path_ii.go)                                       | Medium     |
+| 14  | [53. 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/)                                                      | [Go](go/53-maximum-subarray/maximum_subarray.go)                                       | Easy     |
 
 <br />
