@@ -1,25 +1,3 @@
-# Basic Data Structures
-
-## Sort
-
-- [Bubble Sort](x-go-algorithms/sort/bubble-sort/bubble_sort.go)
-- [Selection Sort](x-go-algorithms/sort/select-sort/select_sort.go)
-- [Quick Sort](x-go-algorithms/sort/quick-sort/quick_sort_in_place.go)
-- [Insert Sort](x-go-algorithms/sort/insert-sort/insert_sort.go)
-- [Merge Sort](x-go-algorithms/sort/merge-sort/merge_sort.go)
-
-## Linked List
-
-- [Singly Linked List](x-go-algorithms/linkedlist/singly_linked_list.go)
-
-## Stack
-
-- [Sorted Stack](x-go-algorithms/stack/sorted_stack.go)
-
-</br>
-</br>
-</br>
-
 # [Leetcode](https://leetcode.com/)
 
  ## 数学（Math）
