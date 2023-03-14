@@ -49,8 +49,11 @@
 [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)         | [Go](x-go-lc/279-perfect-squares/perfect_squares.go)    | Medium     |
 [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)          | [Go](x-go-lc/309-best-time-to-buy-and-sell-stock-with-cooldown/sell_stock_cooldown.go)   | Medium     |
 [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [Go](x-go-lc/338-counting-bits/counting_bits.go) | Easy     |
+[429. N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/) | [Go](x-go-lc/429-n-ary-tree-level-order-traversal/level_order.go) | Medium     |
 [437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) | [Go](x-go-lc/437-path-sum-iii/path_sum_iii.go) | Medium     |
-[450. 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)             | [Go](x-go-lc/450-delete-node-in-a-bst/delete_bst.go)                 | Medium     |
+[450. 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/) | [Go](x-go-lc/450-delete-node-in-a-bst/delete_bst.go) | Medium     |
+[589. N 叉树的前序遍历](https://leetcode.cn/problems/n-ary-tree-preorder-traversal/) | [Go](x-go-lc/589-n-ary-tree-preorder-traversal/preorder.go) | Easy     |
+[590. N 叉树的后序遍历](https://leetcode.cn/problems/n-ary-tree-postorder-traversal/) | [Go](x-go-lc/590-n-ary-tree-postorder-traversal/postorder.go) | Easy     |
 [622. 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/) | [Go](x-go-lc/622-design-circular-queue/circle_queue.go) | Medium     |
 [641. 设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/)         | [Go](x-go-lc/641-design-circular-deque/design_circular_deque.go)    | Medium     |
 [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)       | [Go](x-go-lc/700-search-in-a-binary-search-tree/search_bst.go)       | Easy       |
