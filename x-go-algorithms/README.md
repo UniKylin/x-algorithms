@@ -7,7 +7,7 @@ Algorithms and data structures implemented in Go
   * [Doubly LinkedList]()
   * [Binary Search]()
   * [Queue]()
-  * [Stack]()
+  * [Stack](./stack/sorted_stack.go)
   * [Set]()
   * [Heap]()
   * [Priority Queue]()
@@ -26,10 +26,10 @@ Algorithms and data structures implemented in Go
 
 ### Sort
   * [Bubble Sort](./sort/bubble-sort/bubble_sort.go)
-  * [Quick Sort]()
-  * [Insertion Sort]()
-  * [Merge Sort]()
-  * [Selection Sort]()
+  * [Quick Sort](./sort/quick-sort/quick_sort_in_place.go)
+  * [Insertion Sort](./sort/insert-sort/insert_sort.go)
+  * [Merge Sort](./sort/merge-sort/merge_sort.go)
+  * [Selection Sort](./sort/select-sort/select_sort.go)
   * [Heap Sort]()
   * [Shell Sort]()
   * [Bucket Sort]()
@@ -52,7 +52,7 @@ Algorithms and data structures implemented in Go
 
 ### Search
   * [Linear Search]()
-  * [Binary Search]()
+  * [Binary Search](./binarysearch/bs.go)
   * [Block Search]()
   * [Interpolation Search]()
 
