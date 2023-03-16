@@ -4,6 +4,7 @@
 | --- | --- | --- |
 [1. 两数之和](https://leetcode.cn/problems/two-sum) | [Go](x-go-lc/1-two-sum/two_sum.go) | Easy     |
 [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/) | [Go](x-go-lc/2-add-two-numbers/add_two_numbers.go) | Medium     |
+[3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters) | [Go](x-go-lc/3-longest-substring-without-repeating-characters/substr.go) | Medium     |
 [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | [Go](x-go-lc/5-longest-palindromic-substring/substring.go) | Medium     |
 [14. 最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/) | [Go](x-go-lc/14-longest-common-prefix/common_prefix.go) | Easy    |
 [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Go](x-go-lc/19-remove-nth-node-from-end-of-list/remove_nth_node.go) | Medium     |
